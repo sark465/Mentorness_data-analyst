@@ -9,3 +9,5 @@ comprehensive visualizations and insights that shed light on trends, patterns, a
 performance of listings. Through SQL, interns will explore key metrics such as pricing, availability,
 host characteristics, and review scores to derive actionable insights for improving the overall quality and
 competitiveness of the listings.
+
+This internship project is given by #Mentorness .
